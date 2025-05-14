@@ -5,7 +5,7 @@ title: Sarah Grace Brown
 
 ## About Me
 
-  <img src="profile.jpg" alt="." style="width: 600px; height: auto;">
+  <img src="profile.jpg" alt="." style="width: 300px; height: auto;">
 
 My name is **Sarah Grace Brown**, and I’m a mechanical engineering student at Cornell University with a passion for robotics, 
 hands-on design, and interdisciplinary innovation. I bring experience in advanced manufacturing, autonomous vehicle development, 
