@@ -1,16 +1,26 @@
 ---
 layout: default
-title: <Your Name>
+title: Sarah Grace Brown
 ---
 
-## About Me  
+## About Me
 
+![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: .profile-image}
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+My name is **Sarah Grace Brown**, and I’m a mechanical engineering student at Cornell University with a passion for robotics, 
+hands-on design, and interdisciplinary innovation. I bring experience in advanced manufacturing, autonomous vehicle development, 
+and mechatronics through roles at **Tiffany & Co.**, **Lockheed Martin**, and the **Cornell 
+Autonomous Underwater Vehicle (CUAUV)** team, where I currently serve as Mechanical Subteam Lead.
 
- 
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+I thrive at the intersection of creativity and precision—leading projects from concept to deployment, whether that’s designing 
+competition-ready AUV frames, building tactile soft robots in research labs, or implementing new production methods in high-end 
+jewelry production. I strive to contribute to robotics applications that humans can’t—or shouldn’t—do themselves, 
+including those in extreme environments or with high risk.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+My technical strengths include SolidWorks, Rhino, FEA, Python, C++, MATLAB, and embedded systems design using 
+Arduino and Artemis platforms.
+
+Beyond the lab, I manage organizational finances as Tri Delta's Director of Member Finances and serve as Treasurer for 
+Impact dance troupe, blending leadership and community with my engineering journey. I have also completed the Dyson Business Minor.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
