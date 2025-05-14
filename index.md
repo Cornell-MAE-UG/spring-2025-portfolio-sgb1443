@@ -27,7 +27,7 @@ Impact dance troupe, blending leadership and community with my engineering journ
 <h2>Explore More:</h2>
 <ul>
   <li><a href="https://cornell-mae-ug.github.io/spring-2025-portfolio-sgb1443/projects/">📁 Portfolio Projects</a></li>
-  <li><a href="https://cornell-mae-ug.github.io/spring-2025-portfolio-sgb1443/resume/">📄 Curriculum Vitae</a></li>
+  <li><a href="https://cornell-mae-ug.github.io/spring-2025-portfolio-sgb1443/resume/">📄 Resume </a></li>
 </ul>
 
-<iframe src="https://drive.google.com/file/d/1tE7TuohYIjdwgvFfabjKZWQn7TbbKXA7/preview" width="100%" height="600px" style="border: none;"></iframe>
+
