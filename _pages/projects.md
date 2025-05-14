@@ -13,6 +13,3 @@ permalink: /projects/
 
 ---
 
-{% for project in site.projects %}
-- [{{ project.title }}]({{ project.url | relative_url }})
-{% endfor %}
