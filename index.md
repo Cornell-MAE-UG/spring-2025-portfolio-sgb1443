@@ -5,28 +5,53 @@ title: Sarah Grace Brown
 
 ## About Me
 
-  <img src="profile.jpg" alt="." style="width: 300px; height: auto;">
+<img src="profile.jpg" alt="Sarah Grace Brown" style="width: 300px; height: auto;">
 
-My name is **Sarah Grace Brown**, and I’m a mechanical engineering student at Cornell University with a passion for robotics, 
-hands-on design, and interdisciplinary innovation. I bring experience in advanced manufacturing, autonomous vehicle development, 
-and mechatronics through roles at **Tiffany & Co.**, **Lockheed Martin**, and the **Cornell 
-Autonomous Underwater Vehicle (CUAUV)** team, where I currently serve as Mechanical Subteam Lead.
+I'm a Mechanical Engineer passionate about creating robotic systems that push the limits of what people and machines can do. I aim to work on robotics and autonomous systems that expand what's currently possible, combining mechanical design, actuation, controls, and autonomy to bring complex ideas to life.
 
-I thrive at the intersection of creativity and precision—leading projects from concept to deployment, whether that’s designing 
-competition-ready AUV frames, building tactile soft robots in research labs, or implementing new production methods in high-end 
-jewelry production. I strive to contribute to robotics applications that humans can’t—or shouldn’t—do themselves, 
-including those in extreme environments or with high risk.
+I have extensive experience designing underwater robotic systems through my work with CUAUV, Cornell's Autonomous Underwater Vehicle project team. My most recent work includes developing a patent-pending fiber optic end effector for composite manufacturing at Lockheed Martin. I'm currently part of Cornell's Autonomous Systems Lab, where I'm designing the mechanical systems, controls, and computer vision for an underwater autonomous soft robotic fish.
 
-My technical strengths include SolidWorks, Rhino, FEA, Python, C++, MATLAB, and embedded systems design using 
-Arduino and Artemis platforms.
+### Education
+**Cornell University**
+- **B.S. in Mechanical Engineering** | Expected December 2025
+  - Dyson Business Minor | Quill & Dagger Honors Society | GPA 3.6
+- **M.Eng in Mechanical Engineering** | Expected December 2026
+  - Robotics Concentration
 
-Beyond the lab, I manage organizational finances as Tri Delta's Director of Member Finances and serve as Treasurer for 
-Impact dance troupe, blending leadership and community with my engineering journey. I have also completed the Dyson Business Minor.
+### Technical Skills
+SolidWorks • Fusion 360 • CATIA V5 • Rhino • Python • C++ • C • MATLAB • ROS • HTML • FEA • CNC Machining • 3D Printing • Laser Cutting • Composites • Soldering
 
-<h2>Explore More:</h2>
-<ul>
-  <li><a href="https://cornell-mae-ug.github.io/spring-2025-portfolio-sgb1443/projects/">📁 Portfolio Projects</a></li>
-  <li><a href="https://cornell-mae-ug.github.io/spring-2025-portfolio-sgb1443/resume/">📄 Resume </a></li>
-</ul>
+### Featured Experience
+- **Lockheed Martin** - Blades Manufacturing Engineering Intern (Summer 2025)
+  - Developed patent-pending fiber optic sensor extrusion system for composite manufacturing
+- **Tiffany & Co** - Manufacturing & Process Engineering Intern (Summer 2024)
+  - Designed laser cutting process saving $60k/year in production costs
+- **CUAUV** - Mechanical Subteam Lead (Oct 2022 - Present)
+  - Leading design of autonomous underwater vehicle for international competition
 
+### Leadership
+- **Order of Omega Honor Society** - President (Sept 2025 - Present)
+- **Tri Delta (Alpha Beta Chapter)** - Director of Member Finances (Jan 2024 - Present)
+  - Managing $600K annual budget for the chapter
+- **Impact Dance Troupe** - Treasurer (Aug 2022 - Present)
 
+## Explore My Work
+
+### Projects
+- [Robotics Patent Sikorsky - Fiber Optic Sensor System](robotics-patent-sikorsky.html)
+- [Tiffany & Co - Manufacturing Engineering](tiffany-co.html)
+- [EmPRise Lab - Robotic Tactile Sensing](emprise-lab.html)
+- [Autonomous Systems Lab - Underwater Soft Robotic Eel](autonomous-systems-lab.html)
+- [CUAUV - Autonomous Underwater Vehicle](cuauv.html)
+
+### Coursework
+- [Microcontrollers: ECE 4760](ece4760.html)
+- [Foundations of Robotics: CS 4750 (ROS)](cs4750.html)
+- [Fast Robots: ECE 4160/5160](fast-robots.html)
+- [Mechatronics: MAE 3780](mechatronics.html)
+
+### Contact
+- Email: [seb353@cornell.edu](mailto:seb353@cornell.edu)
+- Phone: (513) 240-6462
+- [LinkedIn](https://www.linkedin.com/in/sarah-grace-brown-82084a263/)
+- [GitHub Portfolio](https://github.com/Cornell-MAE-UG/spring-2025-portfolio-sgb1443)
