@@ -1,13 +1,13 @@
 ---
 layout: default
 title: "Underwater Soft Robotic Eel"
+permalink: /autonomous-systems-lab/
 date: 2025-08-01
 categories: [research, robotics, autonomous-systems]
 lab: "Autonomous Systems Lab"
 advisor: "Prof. Mark Campbell"
 institution: "Cornell University"
 duration: "August 2025 - Present"
-image: /assets/images/robotic-eel.jpg
 ---
 
 # Autonomous Systems Lab
