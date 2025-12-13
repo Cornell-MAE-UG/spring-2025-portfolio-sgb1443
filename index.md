@@ -46,8 +46,8 @@ SolidWorks • Fusion 360 • CATIA V5 • Rhino • Python • C++ • C • MA
 - [Foundations of Robotics: CS 4750 (ROS)](cs4750.html)
 - [Fast Robots: ECE 4160/5160](fast-robots.html)
 - [Mechatronics: MAE 3780](mechatronics.html)
-- [Ethics: MAE 4300](mae4300.html)
-- [Blade Design: MAE 4272](mae4272.html)
+- [Ethics: MAE 4300](mae4300.md)
+- [Blade Design: MAE 4272](mae4272.md)
 
 ### Contact
 - Email: [seb353@cornell.edu](mailto:seb353@cornell.edu)
