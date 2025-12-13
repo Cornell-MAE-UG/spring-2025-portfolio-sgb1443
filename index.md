@@ -32,7 +32,8 @@ SolidWorks • Fusion 360 • CATIA V5 • Rhino • Python • C++ • C • MA
   - Managing $600K annual budget for the chapter
 - **Impact Dance Troupe** - Treasurer (Aug 2022 - Present)
 
-## Explore My Work
+##
+ Explore My Work
 
 ###
  Projects
@@ -117,7 +118,7 @@ mechatronics
 [
 Ethics Portfolio: MAE 4300
 ](
-mae4300-portfolio
+MAE4300
 )
 
 -
@@ -125,7 +126,7 @@ mae4300-portfolio
 [
 Blade Design: MAE 4272
 ](
-mae4272
+MAE4272
 )
 
 ###
@@ -156,5 +157,3 @@ GitHub Portfolio
 ](
 https://github.com/Cornell-MAE-UG/spring-2025-portfolio-sgb1443
 )
-
-
