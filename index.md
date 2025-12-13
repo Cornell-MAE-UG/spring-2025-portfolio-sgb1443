@@ -34,23 +34,127 @@ SolidWorks • Fusion 360 • CATIA V5 • Rhino • Python • C++ • C • MA
 
 ## Explore My Work
 
-### Projects
-- [Robotics Patent Sikorsky - Fiber Optic Sensor System](robotics-patent-sikorsky.html)
-- [Tiffany & Co - Manufacturing Engineering](tiffany-co.html)
-- [EmPRise Lab - Robotic Tactile Sensing](emprise-lab.html)
-- [Autonomous Systems Lab - Underwater Soft Robotic Eel](autonomous-systems-lab.html)
-- [CUAUV - Autonomous Underwater Vehicle](cuauv.html)
+###
+ Projects
 
-### Coursework
-- [Microcontrollers: ECE 4760](ece4760.html)
-- [Foundations of Robotics: CS 4750 (ROS)](cs4750.html)
-- [Fast Robots: ECE 4160/5160](fast-robots.html)
-- [Mechatronics: MAE 3780](mechatronics.html)
-- [Ethics: MAE 4300](mae4300.md)
-- [Blade Design: MAE 4272](mae4272.md)
+-
+ 
+[
+Robotics Patent Sikorsky - Fiber Optic Sensor System
+](
+robotics-patent-sikorsky
+)
 
-### Contact
-- Email: [seb353@cornell.edu](mailto:seb353@cornell.edu)
-- Phone: (513) 240-6462
-- [LinkedIn](https://www.linkedin.com/in/sarah-grace-brown-82084a263/)
-- [GitHub Portfolio](https://github.com/Cornell-MAE-UG/spring-2025-portfolio-sgb1443)
+-
+ 
+[
+Tiffany & Co - Manufacturing Engineering
+](
+tiffany-co
+)
+
+-
+ 
+[
+EmPRise Lab - Robotic Tactile Sensing
+](
+emprise-lab
+)
+
+-
+ 
+[
+Autonomous Systems Lab - Underwater Soft Robotic Eel
+](
+autonomous-systems-lab
+)
+
+-
+ 
+[
+CUAUV - Autonomous Underwater Vehicle
+](
+cuauv
+)
+
+###
+ Coursework
+
+-
+ 
+[
+Microcontrollers: ECE 4760
+](
+ece4760
+)
+
+-
+ 
+[
+Foundations of Robotics: CS 4750 (ROS)
+](
+cs4750
+)
+
+-
+ 
+[
+Fast Robots: ECE 4160/5160
+](
+fast-robots
+)
+
+-
+ 
+[
+Mechatronics: MAE 3780
+](
+mechatronics
+)
+
+-
+ 
+[
+Ethics Portfolio: MAE 4300
+](
+mae4300-portfolio
+)
+
+-
+ 
+[
+Blade Design: MAE 4272
+](
+mae4272
+)
+
+###
+ Contact
+
+-
+ Email: 
+[
+seb353@cornell.edu
+](
+mailto:seb353@cornell.edu
+)
+
+-
+ Phone: (513) 240-6462
+-
+ 
+[
+LinkedIn
+](
+https://www.linkedin.com/in/sarah-grace-brown-82084a263/
+)
+
+-
+ 
+[
+GitHub Portfolio
+](
+https://github.com/Cornell-MAE-UG/spring-2025-portfolio-sgb1443
+)
+
+
