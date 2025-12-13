@@ -32,128 +32,25 @@ SolidWorks • Fusion 360 • CATIA V5 • Rhino • Python • C++ • C • MA
   - Managing $600K annual budget for the chapter
 - **Impact Dance Troupe** - Treasurer (Aug 2022 - Present)
 
-##
- Explore My Work
+## Explore My Work
 
-###
- Projects
+### Projects
+- [Robotics Patent Sikorsky - Fiber Optic Sensor System](robotics-patent-sikorsky)
+- [Tiffany & Co - Manufacturing Engineering](tiffany-co)
+- [EmPRise Lab - Robotic Tactile Sensing](emprise-lab)
+- [Autonomous Systems Lab - Underwater Soft Robotic Eel](autonomous-systems-lab)
+- [CUAUV - Autonomous Underwater Vehicle](cuauv)
 
--
- 
-[
-Robotics Patent Sikorsky - Fiber Optic Sensor System
-](
-robotics-patent-sikorsky
-)
+### Coursework
+- [Microcontrollers: ECE 4760](ece4760)
+- [Foundations of Robotics: CS 4750 (ROS)](cs4750)
+- [Fast Robots: ECE 4160/5160](fast-robots)
+- [Mechatronics: MAE 3780](mechatronics)
+- [Ethics Portfolio: MAE 4300](MAE4300)
+- [Blade Design: MAE 4272](MAE4272)
 
--
- 
-[
-Tiffany & Co - Manufacturing Engineering
-](
-tiffany-co
-)
-
--
- 
-[
-EmPRise Lab - Robotic Tactile Sensing
-](
-emprise-lab
-)
-
--
- 
-[
-Autonomous Systems Lab - Underwater Soft Robotic Eel
-](
-autonomous-systems-lab
-)
-
--
- 
-[
-CUAUV - Autonomous Underwater Vehicle
-](
-cuauv
-)
-
-###
- Coursework
-
--
- 
-[
-Microcontrollers: ECE 4760
-](
-ece4760
-)
-
--
- 
-[
-Foundations of Robotics: CS 4750 (ROS)
-](
-cs4750
-)
-
--
- 
-[
-Fast Robots: ECE 4160/5160
-](
-fast-robots
-)
-
--
- 
-[
-Mechatronics: MAE 3780
-](
-mechatronics
-)
-
--
- 
-[
-Ethics Portfolio: MAE 4300
-](
-MAE4300
-)
-
--
- 
-[
-Blade Design: MAE 4272
-](
-MAE4272
-)
-
-###
- Contact
-
--
- Email: 
-[
-seb353@cornell.edu
-](
-mailto:seb353@cornell.edu
-)
-
--
- Phone: (513) 240-6462
--
- 
-[
-LinkedIn
-](
-https://www.linkedin.com/in/sarah-grace-brown-82084a263/
-)
-
--
- 
-[
-GitHub Portfolio
-](
-https://github.com/Cornell-MAE-UG/spring-2025-portfolio-sgb1443
-)
+### Contact
+- Email: [seb353@cornell.edu](mailto:seb353@cornell.edu)
+- Phone: (513) 240-6462
+- [LinkedIn](https://www.linkedin.com/in/sarah-grace-brown-82084a263/)
+- [GitHub Portfolio](https://github.com/Cornell-MAE-UG/spring-2025-portfolio-sgb1443)
