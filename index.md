@@ -35,19 +35,19 @@ SolidWorks • Fusion 360 • CATIA V5 • Rhino • Python • C++ • C • MA
 ## Explore My Work
 
 ### Projects
-- [Robotics Patent Sikorsky - Fiber Optic Sensor System](pages/robotics-patent-sikorsky)
-- [Tiffany & Co - Manufacturing Engineering](pages/tiffany-co)
-- [EmPRise Lab - Robotic Tactile Sensing](pages/emprise-lab)
-- [Autonomous Systems Lab - Underwater Soft Robotic Eel](pages/autonomous-systems-lab)
-- [CUAUV - Autonomous Underwater Vehicle](pages/cuauv)
+- [Robotics Patent Sikorsky - Fiber Optic Sensor System](robotics-patent-sikorsky)
+- [Tiffany & Co - Manufacturing Engineering](tiffany-co)
+- [EmPRise Lab - Robotic Tactile Sensing](emprise-lab)
+- [Autonomous Systems Lab - Underwater Soft Robotic Eel](autonomous-systems-lab)
+- [CUAUV - Autonomous Underwater Vehicle](cuauv)
 
 ### Coursework
-- [Microcontrollers: ECE 4760](pages/ece4760)
-- [Foundations of Robotics: CS 4750 (ROS)](pages/cs4750)
-- [Fast Robots: ECE 4160/5160](pages/fast-robots)
-- [Mechatronics: MAE 3780](pages/mechatronics)
-- [Ethics Portfolio: MAE 4300](pages/MAE4300)
-- [Blade Design: MAE 4272](pages/MAE4272)
+- [Microcontrollers: ECE 4760](ece4760)
+- [Foundations of Robotics: CS 4750 (ROS)](cs4750)
+- [Fast Robots: ECE 4160/5160](fast-robots)
+- [Mechatronics: MAE 3780](mechatronics)
+- [Ethics Portfolio: MAE 4300](MAE4300)
+- [Blade Design: MAE 4272](MAE4272)
 
 ### Contact
 - Email: [seb353@cornell.edu](mailto:seb353@cornell.edu)
